@@ -1,6 +1,5 @@
-# MATLAB
+# 2D Brownian Motion Simulation of Single Particle in MATLAB - Complete Guide
 Development of a MATLAB program to simulate the Brownian motion of a particle in two-dimensional space, trajectory plot, and calculated mean square displacement (MSD) as a function of time.
-# 2D Brownian Motion Simulation - Complete Guide
 
 ## Table of Contents
 1. [Background](#background)
